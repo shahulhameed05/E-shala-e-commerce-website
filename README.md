@@ -1,4 +1,4 @@
-SOME SCREENSHOTS OF THIS WEBSITES: 
+SOME SCREENSHOTS OF THIS WEBSITE: 
 
 ![Screenshot 1](https://github.com/shahulhameed05/E-shala-e-commerce-website/assets/172028971/71bc9a58-fbc6-4cc3-8ebb-0d50245f6b6b)
 ![Screenshot 2](https://github.com/shahulhameed05/E-shala-e-commerce-website/assets/172028971/0e4918af-f93d-43fa-97e8-80532a24b9bc)
